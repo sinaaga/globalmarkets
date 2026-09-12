@@ -1,0 +1,2 @@
+# globalmarkets
+aplikasi pasar saham
